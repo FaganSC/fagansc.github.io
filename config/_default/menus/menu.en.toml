@@ -31,7 +31,7 @@
 [[social]]
   name = "rss"
   weight = 4
-  url = "index.xml"
+  url = "https://feeds.feedburner.com/fagancloudblog"
 
 # other supported social links
 # name = "youtube"
