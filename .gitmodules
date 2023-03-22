@@ -1,0 +1,3 @@
+[submodule "themes/hugo-clarity-fagan"]
+	path = themes/hugo-clarity-fagan
+	url = https://github.com/FaganSC/hugo-clarity-fagan.git
