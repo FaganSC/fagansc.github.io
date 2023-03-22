@@ -80,7 +80,7 @@ mainSections = ["homepage","news","tutorial","posts", "series"] # see config det
 # center logo on navbar
 #centerLogo = true # Set to "true" for centering or "false" for left aligned.
 
-#logo = "logos/logo.png"
+logo = "logos/logo.png"
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -122,7 +122,7 @@ numberOfFeaturedPosts = 4
 # customFonts = false # toggle to true if you want to use custom fonts only.
 
 # The year when ths website was created
-since = 2020
+since = 2022
     
 [deployment]
   order = [".jpg$", ".gif$"]
