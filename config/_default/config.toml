@@ -54,7 +54,7 @@ introDescription = "Solutions Architect with a background in Development and Net
 # description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
 # Google analytics Id
-ga_analytics = "G-BW5YP7M0YT"
+ga_analytics = "G-ZJ038ZGHB1"
 
 # Baidu analytics Id
 # baidu_analytics = "XXXXXXXX"
