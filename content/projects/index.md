@@ -22,5 +22,4 @@ tags:
   - Web Parts
 # comment: false # Disable comment if false.
 ---
-
-**Insert Lead paragraph here.**
+Open Source Projects Coming Soon!
