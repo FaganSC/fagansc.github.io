@@ -1,6 +1,6 @@
 ---
-title: "Projects" # Title of the blog post.
-date: "2023-03-21" # Date of post creation.
+title: "{{ replace .Name "-" " " | title }}" # Title of the blog post.
+date: {{ .Date }} # Date of post creation.
 description: "Article description." # Description used for search engine.
 featured: true # Sets if post is a featured post, making appear on the home page side bar.
 #draft: false # Sets whether to render this page. Draft of true will not be rendered.
@@ -15,11 +15,14 @@ featured: true # Sets if post is a featured post, making appear on the home page
 #codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 #codeLineNumbers: false # Override global value for showing of line numbers within code block.
 #figurePositionShow: true # Override global value for showing the figure label.
+#redirectUrl: ''
 categories:
-  - Project
+  - Projects
 tags:
-  - SPFx
-  - Web Parts
-# comment: false # Disable comment if false.
+  - Tag_name1
+  - Tag_name2
+comment: false
+
 ---
-Open Source Projects Coming Soon!
+
+**Insert Lead paragraph here.**

@@ -15,9 +15,10 @@ DefaultContentLanguage = "en"
 
 [permalinks]
 homepage = "/:title/"
+projects = "/projects/:title/"
+blog = "/:year-:month/:title/"
 news = "/:sections/:year-:month/:title/"
 tutorial = "/:sections/:year-:month/:title/"
-blog = "/:year-:month/:title/"
 
 [taxonomies]
 category = "categories"
