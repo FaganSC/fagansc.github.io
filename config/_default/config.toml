@@ -145,3 +145,7 @@ since = 2022
 [[deployment.matchers]]
   pattern = "^.+\\.(html|xml|json)$"
   gzip = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
