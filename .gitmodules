@@ -1,3 +1,6 @@
 [submodule "themes/hugo-clarity-fagan"]
 	path = themes/hugo-clarity-fagan
 	url = https://github.com/FaganSC/hugo-clarity-fagan.git
+[submodule "themes/stack-starter"]
+	path = themes/stack-starter
+	url = git@github.com:CaiJimmy/hugo-theme-stack-starter.git

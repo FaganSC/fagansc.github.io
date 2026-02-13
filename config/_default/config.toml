@@ -3,7 +3,7 @@ title = "Shawn Fagan"
 author = "Shawn C. Fagan"
 copyright = ""
 paginate = "10"
-theme = "hugo-clarity-fagan"
+theme = "stack-starter"
 disqusShortname = "fagan-cloud-blog"
 
 DefaultContentLanguage = "en"
