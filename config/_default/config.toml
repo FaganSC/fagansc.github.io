@@ -2,9 +2,11 @@ baseURL = "https://www.fagan.cloud"
 title = "Shawn Fagan"
 author = "Shawn C. Fagan"
 copyright = ""
-paginate = "10"
 theme = "stack-starter"
 disqusShortname = "fagan-cloud-blog"
+
+[pagination]
+pagerSize = 10
 
 DefaultContentLanguage = "en"
 # [languages]
